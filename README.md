@@ -12,6 +12,9 @@ You and your team will work on these either individually (or together) to try an
 
  TODO: make a petiton struct that holds an id, title, body, and signatureCount
 
+ <img width="1500" alt="Screenshot 2023-11-29 at 11 49 46 AM" src="https://github.com/ngordon68/DataFlowActivity/assets/102773701/454110ad-0f01-4d41-9813-b87d2dc4a1af">
+
+
 # Step 2
 
 # Step 3
