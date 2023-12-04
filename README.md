@@ -2,7 +2,7 @@
 
 # Data Flow
 
-You have to help Cookie Monster, CEO of CookieTime Industries. Cookie Monster is trying to break into the digital marketplace, and wants your help.
+You have a client that wants an app that displays restaurants in the Detroit area
 
 # To Do:
 
