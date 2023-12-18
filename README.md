@@ -2,7 +2,7 @@
 
 # Data Flow
 
-You have a client that wants an app that displays restaurants in the Detroit area
+You have a client that wants an app that displays different fruits
 
 # To Do:
 
