@@ -14,7 +14,7 @@ You have a client that wants an app that displays different fruits and shows a d
 
 # To Do:
 
-You and your team will work on these either individually (or together) to try and solve the problems to make the app pull in data from an API and to practice data flow between Views. Refer to the steps below for guidance or the TODOs within xCode
+You and your team will work on these either individually (or together) to try and solve the problems to make the app 
 
 # Step 1
 
