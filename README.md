@@ -9,8 +9,7 @@ You have a client that wants an app that displays different fruits
  <img width="200 height= 200" alt="Screenshot 2023-11-29 at 11 49 46 AM" src="https://github.com/ngordon68/DataFlowActivity/assets/102773701/a3214596-c78d-4029-9efe-98bbd3af6d32">
 
   <img width="200 height= 200" alt="Screenshot 2023-11-29 at 11 49 46 AM" src="https://github.com/ngordon68/DataFlowActivity/assets/102773701/6f55b723-53a7-4195-b2c2-8875f03455e5">
-![Simulator Screenshot - iPhone 15 - 2023-12-18 at 14 15 46](https://github.com/ngordon68/DataFlowActivity/assets/102773701/a3214596-c78d-4029-9efe-98bbd3af6d32)
-![Simulator Screenshot - iPhone 15 - 2023-12-18 at 14 15 57](https://github.com/ngordon68/DataFlowActivity/assets/102773701/6f55b723-53a7-4195-b2c2-8875f03455e5)
+
 
 
 # To Do:
