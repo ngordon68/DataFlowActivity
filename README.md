@@ -2,7 +2,7 @@
 
 # Data Flow
 
-You have a client that wants an app that displays different fruits and shows a detail view of each fruit.
+You have a client that wants an app that displays different fruits and shows a detail view of each fruit. The fruit images are already provided inside the xCode file
 
  <img width="200 height= 200" alt="Screenshot 2023-11-29 at 11 49 46 AM" src="https://github.com/ngordon68/DataFlowActivity/assets/102773701/7a841977-d4a0-4083-a21d-08f9d0e26e75">
 
@@ -18,14 +18,12 @@ You and your team will work on these either individually (or together) to try an
 
 # Step 1
 
- TODO: make a petiton struct that holds an id, title, body, and signatureCount. Refer to the image below of the data we will be pulling in. 
- HINT: only look at the data fields that was reference and see the data type that was used.
- 
- <img width="200 height= 200" alt="Screenshot 2023-11-29 at 11 49 46 AM" src="https://github.com/ngordon68/DataFlowActivity/assets/102773701/7a841977-d4a0-4083-a21d-08f9d0e26e75">
-
-
+ TODO: make a Fruit model that has a name, image, and descriptions
+ BONUS: try to make a property for the fruit color
 
 # Step 2
+
+TODO: Navigate to the FruitObject file and make an fruit array to holds a strawberry, blueberry, banana, peach, and an orange.
 
 # Step 3
 
