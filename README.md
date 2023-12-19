@@ -6,7 +6,7 @@ You have a client that wants an app that displays different fruits
 
  <img width="200 height= 200" alt="Screenshot 2023-11-29 at 11 49 46 AM" src="https://github.com/ngordon68/DataFlowActivity/assets/102773701/7a841977-d4a0-4083-a21d-08f9d0e26e75">
 
-  <img width="200 height= 200" alt="Screenshot 2023-11-29 at 11 49 46 AM" src="https://github.com/ngordon68/DataFlowActivity/assets/102773701/7a841977-d4a0-4083-a21d-08f9d0e26e75">
+ <img width="200 height= 200" alt="Screenshot 2023-11-29 at 11 49 46 AM" src="https://github.com/ngordon68/DataFlowActivity/assets/102773701/7a841977-d4a0-4083-a21d-08f9d0e26e75">
 
 # To Do:
 
